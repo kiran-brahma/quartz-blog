@@ -3,7 +3,6 @@ title: Seling Software to Indians
 description: Why Indians are a hard sell for Software services
 tags:
   - Linkedin
-  - Technology
   - Sales
 date: 2023-07-23
 ---

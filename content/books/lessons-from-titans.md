@@ -4,10 +4,7 @@ description: Learn from the experiences of large businesses on  how to navigate 
 aliases: 
 draft: false
 tags:
-  - Business
   - Lessons
-  - Failure
-  - Startup
   - Books
 date: 2024-04-05
 ---

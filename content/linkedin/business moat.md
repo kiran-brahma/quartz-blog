@@ -4,9 +4,6 @@ description: Having a game plan to ensure defensibility of your business from th
 tags:
   - Linkedin
   - Business
-  - Startup
-  - Strategy
-  - Competition
 date: 2024-04-15
 draft: false
 ---

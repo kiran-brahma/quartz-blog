@@ -3,9 +3,6 @@ title: How to Humanise AI Content
 description: Use the following approach to generate the first draft with the aid of AI. Always ensure that you read and edit to finally match your requirements
 tags:
   - AI
-  - Writing
-  - Productivity
-  - Technology
 date: 2024-04-09
 aliases: 
 draft: false

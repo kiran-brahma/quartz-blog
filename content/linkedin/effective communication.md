@@ -3,8 +3,6 @@ title: Effective Communication
 description: Why verbal communication is important for career success
 tags:
   - Linkedin
-  - Career
-  - Sales
   - Communication
 date: 2023-08-26
 ---

@@ -3,7 +3,6 @@ title: Apple AI Announcement
 description: Apple AI announcement will lead to death of multiple AI tools
 tags:
   - Linkedin
-  - Technology
   - AI
 date: 2024-06-13
 draft: false

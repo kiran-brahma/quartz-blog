@@ -4,7 +4,6 @@ description: AI tools provide with lot of assistance but the key to utilising th
 aliases: 
 draft: false
 tags:
-  - Technology
   - AI
 date: 2024-04-08
 ---

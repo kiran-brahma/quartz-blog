@@ -4,7 +4,6 @@ description: A Presentation given by me to Startups, providing a foundation in m
 aliases: 
 draft: false
 tags:
-  - Startup
   - Business
 date: 2024-04-05
 ---

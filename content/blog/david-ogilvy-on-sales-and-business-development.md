@@ -4,11 +4,7 @@ description: Key insights and philosophy for sales and business development for 
 aliases: 
 draft: false
 tags:
-  - Marketing
   - Sales
-  - Business
-  - Startup
-  - Lessons
 date: 2024-04-05
 ---
 

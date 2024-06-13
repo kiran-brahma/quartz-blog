@@ -3,7 +3,6 @@ title: How to Remember more of what we read
 description: My system to help me remember more of what I read
 tags:
   - Linkedin
-  - Reading
   - Learning
 date: 2023-09-01
 ---

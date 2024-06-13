@@ -6,8 +6,6 @@ draft: false
 tags:
   - Linkedin
   - Mental-Models
-  - Decision-Making
-  - Productivity
 date: 2023-11-08
 ---
 In the 1920s, Bluma Zeigarnik made an intriguing observation about human behaviour. She noticed that waiters who took orders without writing them down remembered uncompleted orders better than the completed ones.

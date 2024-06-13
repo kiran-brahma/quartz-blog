@@ -4,7 +4,6 @@ description: Dive into the modern geopolitical landscape as a new cold war unfol
 aliases: 
 draft: false
 tags:
-  - Geo-Politics
   - Technology
   - Books
 date: 2024-04-05

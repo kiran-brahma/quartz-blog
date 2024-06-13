@@ -3,7 +3,6 @@ title: Why Build Mental Models
 description: How Mental models help in our decision making process
 tags:
   - Linkedin
-  - Decision-Making
   - Mental-Models
 date: 2023-11-02
 ---

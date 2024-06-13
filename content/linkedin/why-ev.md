@@ -3,6 +3,7 @@ title: Why buy EV
 description: A Personal Experience on Why buying in EV makes sense currently
 tags:
   - Linkedin
+  - EV
 date: 2023-07-02
 ---
 Every other day I keep reading why EVs are better than conventional cars, but most people sharing their insight don't own an EV and their ideas are based on expert opinion rather than personal experience.

@@ -5,8 +5,6 @@ aliases:
 draft: false
 tags:
   - Startup
-  - Lessons
-  - Product-Market-Fit
   - Books
 date: 2024-04-05
 ---

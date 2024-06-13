@@ -4,7 +4,6 @@ description: Why risk is important to account in our probability estimates
 tags:
   - Linkedin
   - Probability
-  - Decision-Making
 date: 2023-10-28
 ---
 Imagine you and a friend decided to play a simple game of heads and tails, starting with 30 rupees each. The rules are as simple: Heads, you win 1 rupee, and if it is tails, you lose 1 rupee.

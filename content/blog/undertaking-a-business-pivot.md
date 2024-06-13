@@ -3,7 +3,6 @@ title: A Simple Framework for Business Pivots
 description: Struggling Business? Don't be afraid to pivot! Learn how to successfully pivot & navigate change to unlock growth
 tags:
   - Startup
-  - Pivot
 date: 2024-03-18
 draft: false
 ---

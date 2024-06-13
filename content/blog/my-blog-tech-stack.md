@@ -5,8 +5,6 @@ aliases:
 draft: false
 tags:
   - Technology
-  - Writing
-  - Blog
 date: 2024-04-08
 ---
 ## Key Takeaways

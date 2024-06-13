@@ -3,7 +3,6 @@ title: Employee Layoffs
 description: A Personal Experience on how I managed to avoid employee layoffs in my company during Covid Lockdown
 tags:
   - Linkedin
-  - Startup
   - Employee
 date: 2023-06-30
 ---

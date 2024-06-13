@@ -4,8 +4,6 @@ description: How Automation with aid of AI automates posting on your behalf acro
 tags:
   - Linkedin
   - AI
-  - Writing
-  - Technology
 date: 2024-05-29
 draft: false
 ---

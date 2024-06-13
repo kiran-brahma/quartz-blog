@@ -4,8 +4,6 @@ description: How AI overview  and AI organised search results by Google changes 
 tags:
   - Linkedin
   - AI
-  - Technology
-  - SEO
 date: 2024-05-16
 draft: false
 ---

@@ -4,15 +4,7 @@ description: Learn from other founders on various aspects when starting your bus
 aliases: 
 draft: false
 tags:
-  - Startup
-  - Business
-  - Lessons
-  - Employee
-  - Strategy
-  - Decision-Making
-  - Marketing
-  - Product-Market-Fit
-  - Productivity
+  - Advise
 date: 2024-04-10
 ---
 ## Introduction

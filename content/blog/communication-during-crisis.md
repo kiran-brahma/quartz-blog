@@ -4,9 +4,7 @@ description: Navigate crises with transparency and empathy. A simple case study 
 aliases: 
 draft: false
 tags:
-  - Business
   - Communication
-  - Decision-Making
 date: 2024-04-05
 ---
 

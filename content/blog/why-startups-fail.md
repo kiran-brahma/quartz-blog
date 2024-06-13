@@ -4,8 +4,6 @@ description: Over 90% of new business fail. Understand the most common reasons w
 aliases: 
 draft: true
 tags:
-  - Startup
-  - Lessons
   - Failure
 date: 2024-04-08
 ---

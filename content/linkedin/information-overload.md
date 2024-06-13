@@ -4,8 +4,6 @@ description: Current Information overload is not allowing us to make informed de
 tags:
   - Linkedin
   - Decision-Making
-  - AI
-  - Productivity
 date: 2024-05-07
 draft: false
 ---

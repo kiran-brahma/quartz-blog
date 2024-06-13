@@ -3,10 +3,8 @@ title: Gig Worker vs. Traditional Employment
 description: Understand where your business can engage employees as a gig worker to avoid penalties
 tags:
   - Linkedin
-  - Business
   - Staffing
-  - Gig-Economy
-date: 
+date: 2024-06-01
 draft: false
 ---
 Lately, many organisations I've speak with are eager to embrace the gig worker model, lured by its flexibility and reduced compliance burden . However,  before you jump on the bandwagon, understand that the gig model isn't as simple or risk-free as it seems.

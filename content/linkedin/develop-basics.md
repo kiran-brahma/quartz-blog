@@ -3,6 +3,7 @@ title: Why Develop your Basics
 description: No matter what role you aspire to grow, it always makes sens to improve your basics
 tags:
   - Linkedin
+  - Advise
 date: 2023-06-14
 ---
 

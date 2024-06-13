@@ -4,7 +4,6 @@ description: A candid narrative of an e-commerce pioneer's journey, highlighting
 aliases: 
 draft: false
 tags:
-  - Startup
   - Failure
   - Books
 date: 2024-04-05

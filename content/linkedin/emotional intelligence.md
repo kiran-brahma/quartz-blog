@@ -3,7 +3,6 @@ title: Why EQ matters more than IQ
 description: People with better EQ are the ones who grow in their careers
 tags:
   - Linkedin
-  - Employee
   - Career
 date: 2023-05-12
 ---

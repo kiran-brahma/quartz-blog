@@ -4,7 +4,6 @@ description: Effective AI prompts average 21 Words. Understand What Google says 
 tags:
   - Linkedin
   - AI
-  - Technology
 date: 2024-05-20
 draft: false
 ---

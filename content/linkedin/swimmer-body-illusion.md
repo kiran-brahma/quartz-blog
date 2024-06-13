@@ -4,7 +4,6 @@ description: Humans always make choices based on the outcome we observe. Underst
 tags:
   - Linkedin
   - Mental-Models
-  - Decision-Making
 date: 2023-08-22
 ---
 I returned to Delhi in 2016 after a crazy year in Mumbai that hit my health hard due to my lifestyle choices. I gained over 20 KGs in just a year. When I saw myself in the mirror, all 98 kgs of me, I knew it was time to get back on track health-wise.

@@ -4,7 +4,6 @@ description: Why sometimes it makes more sense to nothing than to do something o
 tags:
   - Linkedin
   - Mental-Models
-  - Probability
 date: 2023-09-11
 ---
 In football, about 30% of penalties target the middle, 40% the left, and 30% the right, with an average penalty save rate of around 26%<sup><a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2021.645312/full">1</a></sup>

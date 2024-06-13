@@ -4,8 +4,6 @@ description: Why AI models may get more biased in the future
 tags:
   - Linkedin
   - AI
-  - Technology
-  - Decision-Making
 date: 2024-05-12
 draft: false
 ---

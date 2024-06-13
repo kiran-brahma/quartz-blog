@@ -4,7 +4,6 @@ description: We get advice from multiple people in our journey. How to filter ou
 tags:
   - Linkedin
   - Decision-Making
-  - Lessons
 date: 2024-04-11
 draft: false
 ---

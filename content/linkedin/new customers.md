@@ -4,7 +4,6 @@ description: Why trusting family and friends as new customers for your new busin
 tags:
   - Linkedin
   - Sales
-  - Startup
 date: 2023-05-18
 ---
 

@@ -4,7 +4,6 @@ description: How the single word because lets us convince people to do something
 tags:
   - Linkedin
   - Mental-Models
-  - Decision-Making
 date: 2023-09-16
 ---
 Last week, I stumbled upon a fascinating [1978 Harvard research study](https://jamesclear.com/wp-content/uploads/2015/03/copy-machine-study-ellen-langer.pdf) that explored the Power of the Word "Because."

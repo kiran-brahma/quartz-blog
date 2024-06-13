@@ -4,7 +4,6 @@ description: Dwell into the world of forecasting, highlighting the remarkable ab
 aliases: 
 draft: false
 tags:
-  - Probability
   - Decision-Making
   - Books
 date: 2024-04-05

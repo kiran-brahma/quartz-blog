@@ -4,7 +4,6 @@ description: Understand why making changes when things are going good is key for
 tags:
   - Linkedin
   - Mental-Models
-  - Decision-Making
 date: 2023-05-05
 ---
 

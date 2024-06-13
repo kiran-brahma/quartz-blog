@@ -4,7 +4,6 @@ description: Why failures teach us more than success stories in Business.
 tags:
   - Linkedin
   - Failure
-  - Business
 date: 2023-08-30
 ---
 Over the past few weeks, I've started reading Leo Tolstoy's works, particularly his novels "War and Peace" and "Anna Karenina." Finishing each chapter often has made me pause and reflect on what I've read.

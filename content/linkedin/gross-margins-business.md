@@ -3,7 +3,6 @@ title: A Primer on Gross Margins for New Businesses
 description: Understand how much gross margin is needed at minimum to surie
 tags:
   - Linkedin
-  - Business
   - Profitability
 date: 2023-05-31
 ---

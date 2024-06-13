@@ -5,7 +5,6 @@ aliases:
 draft: false
 tags:
   - Startup
-  - Lessons
 date: 2024-03-05
 ---
 

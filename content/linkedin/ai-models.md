@@ -4,7 +4,6 @@ description: Understanding how current AI models answer simple maths question
 tags:
   - Linkedin
   - AI
-  - Technology
 date: 2024-05-13
 draft: false
 ---
