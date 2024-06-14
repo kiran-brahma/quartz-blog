@@ -22,7 +22,7 @@ date: 2024-04-05
   - Customer Behaviour
 - **Competitive Analysis**
   - Competitor Reaction Scenarios
-- [[Blog/a-simple-guide-for-validating-new-business-ideas|Idea Validation]]
+- [[blog/a-simple-guide-for-validating-new-business-ideas|Idea Validation]]
 - **Sales or Marketing**
 - **Business Moat**
 - **Customer Relationship**

@@ -22,7 +22,7 @@ Most writing will be in short notes, focusing on a single idea, which at first g
 
 Head [[about|here]] if you want to know more about me.
 
- * I share my personal views and insights in my [[Blog/index|Blog]] section
+ * I share my personal views and insights in my [[blog/index|Blog]] section
  * A list of [[recommended-reading|books]] that I recommend for reading to my friends
  * My Personal [[guides/index|Study Guides]] across different topics
  * Summary of key learnings from [[Books/index|books]] I read
