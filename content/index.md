@@ -26,8 +26,8 @@ Head [[about|here]] if you want to know more about me.
  * A list of [[recommended-reading|books]] that I recommend for reading to my friends
  * My Personal [[guides/index|Study Guides]] across different topics
  * Summary of key learnings from [[Books/index|books]] I read
- * A collection of [[Journal/index|business insights and tips]] I have collated over the years 
- * I post frequently on [LinkedIn](https://www.linkedin.com/in/kbrahma/). You can read some of my [[Linkedin/index|posts here]]
+ * A collection of [[journal/index|business insights and tips]] I have collated over the years 
+ * I post frequently on [LinkedIn](https://www.linkedin.com/in/kbrahma/). You can read some of my [[linkedin/index|posts here]]
  * You can explore based on a specific [topic](/tags)
  * I enjoy photography and update my [online gallery](https://photos.kiranbrahma.com) whenever time permits
  * Every topic has some suggested reading that you can explore further if you interested 
