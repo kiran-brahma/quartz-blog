@@ -3,6 +3,6 @@ title:
 description: 
 tags:
   - Linkedin
-date: 
-draft: false
+date: {{date}}
+draft: true
 ---
