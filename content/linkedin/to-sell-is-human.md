@@ -14,7 +14,7 @@ The sales rep, instead of jumping into a sales pitch, he spent time understandin
 
 Over next few weeks, he shared information to help me decide, never resorting to usual cringeworthy sales tactics. Finally, I did make the switch to a corporate card - not because of aggressive tactics, but because his focus was to guide me in the entire process.
 
-[!![To Sell is Human](https://c.media-amazon.com/images/I/71cHU5kiqEL._SL1500_.jpg))](https://amzn.to/3X0JCUd).
+[![To Sell is Human](https://c.media-amazon.com/images/I/71cHU5kiqEL._SL1500_.jpg)](https://amzn.to/3X0JCUd)
 
 
 
