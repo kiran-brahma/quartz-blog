@@ -6,7 +6,7 @@ description: Welcome to Kiran Brahma's personal website
 
 Welcome to my little corner of the internet, where I'll be pulling back the curtain on my entrepreneurial journey – the triumphs, the stumbles, and everything in between.
 
-We all have a list of half-baked ideas, eagerly awaiting their _aha_ moment. This blog is my digital playground where I attempt to create more such moments, consisting of:
+We all have a list of half-baked ideas, eagerly awaiting their _**aha**_ moment. This blog is my digital playground where I attempt to create more such moments, consisting of:
 
 - My collection of thoughts and ideas on entrepreneurship
 - Lessons I'm learning (often the hard way)
