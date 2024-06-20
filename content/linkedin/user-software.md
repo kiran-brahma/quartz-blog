@@ -5,7 +5,7 @@ tags:
   - Linkedin
   - Technology
 date: 2024-06-20
-draft: true
+draft: false
 ---
 It turns out, User term origin can be traced back to mainframe compute, which were massive, requiring dedicated space and could be operated only by trained personnel, who were called Users then. User made sense back then as they were vital cogs required for their efficient operations
 
