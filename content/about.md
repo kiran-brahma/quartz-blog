@@ -41,7 +41,7 @@ Think of it as war stories from the trenches, with actionable tips to help you w
 > 
 ### Entrepreneurial experience
 #### Articlus
-An interior design firm founded by four college friends in 2012 that has since completed over 50 residential and commercial projects, transforming empty spaces into stylish, functional environments that elevate the client experience through innovative design solutions and meticulous craftsmanship. Currently this business 
+An interior design firm founded by four college friends in 2012 that has since completed over 50 residential and commercial projects, transforming empty spaces into stylish, functional environments that elevate the client experience through innovative design solutions and meticulous craftsmanship. 
 
 #### Interstellar
 Started a last-mile logistics and delivery business in 2018, utilising our own custom-designed two-wheelers and battery packs. I quit due to the untimely death of my father
