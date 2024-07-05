@@ -16,4 +16,4 @@ If you enjoy rapid action and are unfazed by sudden changes in plans for a proje
 
 Stick with your corporate role if you prefer a more systematic position where changes in any project are made through internal discussion. Although things may move slowly, the focus will be on the principle of "don't fix if it ain't broken."
 
-Don't jump into the startup world blindly. Consider your strengths and preferences before deciding whether entrepreneurship or a startup role is the right fit for you.
+Don't jump into the startup world blindly. Consider your strengths and preferences before deciding whether entrepreneurship or a [[work-in-a-startup|startup role]] is the right fit for you.

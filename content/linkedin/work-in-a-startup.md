@@ -8,7 +8,7 @@ date: 2023-08-14
 ---
 With all the news on startups about funding winter and layoffs, startup jobs seem riskier than usual lately.
 
-While not all startups have resorted to layoffs, before joining one, you need to dig deeper before accepting offers.
+While not all startups have resorted to layoffs, [[Are you cut out for startup life?|before joining one]], you need to dig deeper before accepting offers.
 
 Apart from understanding your role, team and culture, you must understand the company's financial health. No amount of culture or mission can save a financially unviable company.
 

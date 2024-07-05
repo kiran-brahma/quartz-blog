@@ -2,7 +2,7 @@
 title: Kiran Brahma
 description: Welcome to Kiran Brahma's personal website
 ---
-# Hey there! 👋
+## Hey there! 👋
 
 Welcome to my little corner of the internet, where I'll be pulling back the curtain on my entrepreneurial journey – the triumphs, the stumbles, and everything in between.
 

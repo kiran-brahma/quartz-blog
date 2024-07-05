@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     analytics: { provider: 'google', tagId: 'G-PSG09JMPR6' },
     locale: "en-US",
     baseUrl: "kiranbrahma.com",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "smart-chats", "copilot-conversations"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
@@ -26,7 +26,7 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#f5f5f1",
+          light: "#f7f7f7",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
           darkgray: "#4e4e4e",

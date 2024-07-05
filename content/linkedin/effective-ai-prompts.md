@@ -18,7 +18,7 @@ If you find the guide too long read, here is the gist
 
 **Start Chatting:** Use multiple, progressive prompts instead of one massive one. Break tasks into bite-sized pieces.  
   
-**An Effective Prompts consists of**
+**An [[ai-prompts|Effective Prompts]] consists of**
 ·  Persona (Who is the AI?)  
 ·  Task (What do you want it to do?)  
 ·   Context (Any relevant background info?)  

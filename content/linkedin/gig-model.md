@@ -7,7 +7,7 @@ tags:
 date: 2024-06-01
 draft: false
 ---
-Lately, many organisations I've speak with are eager to embrace the gig worker model, lured by its flexibility and reduced compliance burden . However,  before you jump on the bandwagon, understand that the gig model isn't as simple or risk-free as it seems.
+Lately, many organisations I've speak with are eager to embrace the [[gig-workers|gig worker model]], lured by its flexibility and reduced compliance burden . However,  before you jump on the bandwagon, understand that the gig model isn't as simple or risk-free as it seems.
 
 Companies such as  Zomato, Ola, and Urban Company engage people under gig worker contracts, granting workers complete freedom and flexibility in exchange for pay based on work completed. Gig workers model relies on specific conditions that most businesses can't replicate.
 

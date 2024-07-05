@@ -7,7 +7,7 @@ tags:
 date: 2024-05-27
 draft: false
 ---
-Current unemployment trends in India don't always equate to lower labor costs. The booming gig economy has flipped the script, making skilled workers harder to find and costlier to hire.
+Current unemployment trends in India don't always equate to lower labor costs. The booming [[gig-model|gig economy]] has flipped the script, making skilled workers harder to find and costlier to hire.
 
 Last year, a customer enlisted me to source electricians and plumbers across North India for their warehouses. They expected lower rates due to the seemingly abundant workforce. However, the reality on the ground proved quite different.
 
